@@ -19,6 +19,6 @@ on the same design principles. Therefore, three state-of-the-art baseline method
 (2) malware detection algorithms Scorpion and Hawk;
 (3) Heterogeneous graph embedding algorithms HGT , SimpleHGN and HPN.
 
-4. Drebin Dataset
+4. Drebin Dataset: 
 In our testing, all the data used is sourced from the DREBIN dataset. The DREBIN dataset consists of a total of 123,453
 samples of Android applications, including 5,560 malicious samples, and encompasses up to 545,333 behavioral features.
