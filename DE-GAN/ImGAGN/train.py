@@ -31,7 +31,7 @@ parser.add_argument('--epochs_gen', type=int, default=10,
                     help='Number of epochs to train for gen.')
 parser.add_argument('--ratio_generated', type=float, default=1,
                     help='ratio of generated nodes.')
-parser.add_argument('--dataset', choices=['cora', 'citeseer','pubmed', 'dblp', 'wiki'], default='cora')
+parser.add_argument('--dataset', default='drebin')
 
 args = parser.parse_args()
 
