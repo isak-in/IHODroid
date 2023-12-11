@@ -1,6 +1,6 @@
 1. The dataset used in this article is referenced from the following sources:
 Arp, D., Spreitzenbarth, M., Hubner, M., Gascon, H., Rieck,K., & Siemens, C. (2014). 
-Drebin: Effective and explainable detection of android malware in your pocket.
+Drebin: Effective and explainable detection of android malware in your pocket.
 In Ndss (pp. 23–26). volume 14.
 
 2. The download homepage address is: https://www.sec.tu-bs.de/~danarp/drebin/
