@@ -1,0 +1,1 @@
+The baseline method used in this article is referenced from https://github.com/bupt-gamma/openhgnn.
